@@ -1,4 +1,4 @@
-# 🛡️ AI Compliance & Policy Assistant
+# 🛡️ ComplianceIQ
 ### Enterprise RAG-Based Document Intelligence System
 
 > An enterprise-grade, full-stack AI application for intelligent compliance document analysis — featuring semantic search, real-time streaming, interactive PDF citations, and a premium SaaS UI.
@@ -7,7 +7,7 @@
 
 ## 📸 Overview
 
-The **AI Compliance & Policy Assistant** is a production-style **Retrieval-Augmented Generation (RAG)** system. Users upload compliance PDFs (e.g., OSHA guidelines, HR handbooks), and the system:
+The **ComplianceIQ** is a production-style **Retrieval-Augmented Generation (RAG)** system. Users upload compliance PDFs (e.g., OSHA guidelines, HR handbooks), and the system:
 
 - Extracts and chunks text **page-by-page**
 - Embeds chunks into a **ChromaDB vector database**

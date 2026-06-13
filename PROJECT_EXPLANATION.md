@@ -1,4 +1,4 @@
-# AI Compliance & Policy Assistant
+# ComplianceIQ
 ### RAG-Based Enterprise Document Intelligence System
 
 ---
@@ -6,7 +6,7 @@
 ## 1. Project Overview
 
 ### What this project is
-The **AI Compliance & Policy Assistant** is an enterprise-grade, high-fidelity **Retrieval-Augmented Generation (RAG)** application. It is designed to act as an intelligent document workstation that automates the ingestion, analysis, semantic retrieval, and contextual explanation of dense corporate compliance guidelines, employee handbooks, and regulatory manuals (such as OSHA guidelines). The system allows users to upload PDF documents, automatically indices their contents, and enables a conversational AI interface where users can ask complex policy questions and receive streaming, word-by-word answers cited directly from specific pages of the uploaded documents.
+The **ComplianceIQ** is an enterprise-grade, high-fidelity **Retrieval-Augmented Generation (RAG)** application. It is designed to act as an intelligent document workstation that automates the ingestion, analysis, semantic retrieval, and contextual explanation of dense corporate compliance guidelines, employee handbooks, and regulatory manuals (such as OSHA guidelines). The system allows users to upload PDF documents, automatically indices their contents, and enables a conversational AI interface where users can ask complex policy questions and receive streaming, word-by-word answers cited directly from specific pages of the uploaded documents.
 
 ```
 ┌─────────────────┐      Ingest      ┌──────────────────────┐      Query      ┌───────────────┐
